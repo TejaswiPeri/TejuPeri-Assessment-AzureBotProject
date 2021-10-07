@@ -1,0 +1,5 @@
+C:\Users\ArsAdmin\Downloads\ACG-DPR-CodeTest-Bot-master\ACG-DPR-CodeTest-Bot-master\ACG-DPR-CodeTest-Bot\bin\Debug\netcoreapp3.1\ACG-DPR-CodeTest-Bot.deps.json
+C:\Users\ArsAdmin\Downloads\ACG-DPR-CodeTest-Bot-master\ACG-DPR-CodeTest-Bot-master\ACG-DPR-CodeTest-Bot\bin\Debug\netcoreapp3.1\ACG-DPR-CodeTest-Bot.runtimeconfig.json
+C:\Users\ArsAdmin\Downloads\ACG-DPR-CodeTest-Bot-master\ACG-DPR-CodeTest-Bot-master\ACG-DPR-CodeTest-Bot\bin\Debug\netcoreapp3.1\ACG-DPR-CodeTest-Bot.runtimeconfig.dev.json
+C:\Users\ArsAdmin\Downloads\ACG-DPR-CodeTest-Bot-master\ACG-DPR-CodeTest-Bot-master\ACG-DPR-CodeTest-Bot\obj\Debug\netcoreapp3.1\ACG-DPR-CodeTest-Bot.csprojResolveAssemblyReference.cache
+C:\Users\ArsAdmin\Downloads\ACG-DPR-CodeTest-Bot-master\ACG-DPR-CodeTest-Bot-master\ACG-DPR-CodeTest-Bot\obj\Debug\netcoreapp3.1\ACG-DPR-CodeTest-Bot.AssemblyInfo.cs
